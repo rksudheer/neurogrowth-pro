@@ -1,4 +1,9 @@
 """
+PROPRIETARY SOFTWARE - © 2024 [Your Company]
+Patent Pending | All Rights Reserved
+Licensed for demonstration use only
+"""
+"""
 🧠 NeuroGrowth Pro: Advanced Child Development Dashboard
 Clinical-Grade Assessment with Personalized Insights
 """
