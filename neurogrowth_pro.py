@@ -15,6 +15,10 @@ import numpy as np
 from datetime import datetime
 from PIL import Image
 
+import streamlit as st
+weights = st.secrets.algorithms.cognitive_weights
+
+
 # ========== CONFIGURATION ========== #
 THEME = {
     "primary": "#3A86FF",  # Vibrant blue
@@ -332,5 +336,11 @@ st.markdown("""
 <div style='text-align: center; color: #666; margin-top: 2rem;'>
     <p>NeuroGrowth Pro v2.1 • Clinical Assessment Tool</p>
     <p>This tool does not replace professional evaluation</p>
+</div>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<div style="opacity:0.5;font-size:0.8em;">
+    Demo Version - Not for Clinical Use
 </div>
 """, unsafe_allow_html=True)
