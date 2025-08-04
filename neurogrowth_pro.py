@@ -1,5 +1,5 @@
 """
-PROPRIETARY SOFTWARE - © 2024 [Your Company]
+PROPRIETARY SOFTWARE - © 2025 [SudheerAluru]
 Patent Pending | All Rights Reserved
 Licensed for demonstration use only
 """
